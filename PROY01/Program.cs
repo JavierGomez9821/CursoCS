@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 // InvertirPalabra();
 // Arreglos();
 LoadJson();
+Console.WriteLine("Confirmando funcionalidad")
 
 void LoadJson()
 {
