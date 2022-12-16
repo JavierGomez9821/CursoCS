@@ -1,0 +1,17 @@
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\PROY01.exe
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\PROY01.deps.json
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\PROY01.runtimeconfig.json
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\PROY01.dll
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\PROY01.pdb
+C:\CursoCS2\Fundamentos1\PROY01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.csproj.AssemblyReference.cache
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.AssemblyInfoInputs.cache
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.AssemblyInfo.cs
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.csproj.CoreCompileInputs.cache
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.csproj.CopyComplete
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.dll
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\refint\PROY01.dll
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.pdb
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\PROY01.genruntimeconfig.cache
+C:\CursoCS2\Fundamentos1\PROY01\obj\Debug\net6.0\ref\PROY01.dll
