@@ -1,1 +1,8 @@
-﻿Console.WriteLine("HelloWorld");
+﻿using Geometry;
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
