@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <RootNamespace>Geometry</RootNamespace>
+    <NoWarn>CS0169</NoWarn>
   </PropertyGroup>
 
 </Project>

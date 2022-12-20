@@ -7,8 +7,7 @@ namespace Geometry
 {
     public abstract class Figure2D : Figure
     {
-        private float _perimeter;
-
+        private float _area;
         public abstract float getPerimeter();
         public Figure2D(){ }
         public Figure2D(string name) : base(name) { }

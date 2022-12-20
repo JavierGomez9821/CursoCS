@@ -1,0 +1,15 @@
+C:\CursoCS2\Fundamentos1\PROY02\bin\Debug\net6.0\PROY02.exe
+C:\CursoCS2\Fundamentos1\PROY02\bin\Debug\net6.0\PROY02.deps.json
+C:\CursoCS2\Fundamentos1\PROY02\bin\Debug\net6.0\PROY02.runtimeconfig.json
+C:\CursoCS2\Fundamentos1\PROY02\bin\Debug\net6.0\PROY02.dll
+C:\CursoCS2\Fundamentos1\PROY02\bin\Debug\net6.0\PROY02.pdb
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.csproj.AssemblyReference.cache
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.AssemblyInfoInputs.cache
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.AssemblyInfo.cs
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.csproj.CoreCompileInputs.cache
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.dll
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\refint\PROY02.dll
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.pdb
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\PROY02.genruntimeconfig.cache
+C:\CursoCS2\Fundamentos1\PROY02\obj\Debug\net6.0\ref\PROY02.dll

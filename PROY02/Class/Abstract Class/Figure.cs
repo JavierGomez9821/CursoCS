@@ -16,6 +16,7 @@ namespace Geometry
         private float _size;
         private string _lineColor;
         private string _fillColor;
+        protected float _perimeter;
         const string BLACK = "#000000";
         const string WHITE = "#FFFFFFF";
         public string Name
@@ -29,6 +30,8 @@ namespace Geometry
                 _name = value;
             }
         }
+        public string Id {get{return _id;}}
+        public float Size { get { return _size; } set { _size = value; } }
         public string LineColor
         {
             get
@@ -46,7 +49,7 @@ namespace Geometry
             }
         }
 
-        public virtual void getSize() { }
+        public abstract float getSize();
 
         public Figure()
         {

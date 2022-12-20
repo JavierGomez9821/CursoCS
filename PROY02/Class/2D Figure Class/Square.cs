@@ -13,9 +13,21 @@ namespace Geometry
         {
             _side = side;
         }
+        public float Lado // Propiedad
+        {
+            get{return _side;}
+            set{_side=value;}
+        }
         public override float getPerimeter()
         {
-            return _side * _side;
+            _perimeter = _side *4;
+            return _perimeter;
+        }
+        public override float getSize()
+        {
+            float Size = _side*_side;
+            this.Size = Size;
+            return Size;
         }
 
     }
