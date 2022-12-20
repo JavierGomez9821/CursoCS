@@ -17,7 +17,7 @@ internal class Program
         Triangle Triangulo = new Triangle();
         Triangulo.Lado1 = 4;
         Triangulo.Lado2 = 5;
-        Triangulo.Lado3 = 7;
+        Triangulo.Lado3 = 8;
         Triangulo.Name = "Primer Triangulo";
         Triangulo.LineColor = "#008080";
         Triangulo.getPerimeter();
