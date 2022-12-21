@@ -1,0 +1,15 @@
+C:\CursoCS2\Fundamentos1\ProyPayment\bin\Debug\net6.0\ProyPayment.exe
+C:\CursoCS2\Fundamentos1\ProyPayment\bin\Debug\net6.0\ProyPayment.deps.json
+C:\CursoCS2\Fundamentos1\ProyPayment\bin\Debug\net6.0\ProyPayment.runtimeconfig.json
+C:\CursoCS2\Fundamentos1\ProyPayment\bin\Debug\net6.0\ProyPayment.dll
+C:\CursoCS2\Fundamentos1\ProyPayment\bin\Debug\net6.0\ProyPayment.pdb
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.csproj.AssemblyReference.cache
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.AssemblyInfoInputs.cache
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.AssemblyInfo.cs
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.csproj.CoreCompileInputs.cache
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.dll
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\refint\ProyPayment.dll
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.pdb
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ProyPayment.genruntimeconfig.cache
+C:\CursoCS2\Fundamentos1\ProyPayment\obj\Debug\net6.0\ref\ProyPayment.dll
