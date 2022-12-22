@@ -7,7 +7,7 @@
         Console.Clear();
         Console.WriteLine($"Adivine el numero secreto entre 1 y 100. En el menor numero de intentos: ");
         Console.WriteLine($"Para Salir sin adivinar digite 0 ");
-        ushort userNumber = 1000;
+        ushort ? userNumber = null;
         Console.Write($"Ingrese el numero => ");
         do
         {
